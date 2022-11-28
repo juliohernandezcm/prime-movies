@@ -1,0 +1,19 @@
+{
+	"name": "prime-movies",
+	"version": "1.0.0",
+	"description": "Web application of films: categories, trends, favorites, cast, etc.",
+	"main": "index.html",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/juliohernandezcm/prime-movies.git"
+	},
+	"author": "Julio Hernández <juliohernandezcm@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/juliohernandezcm/prime-movies/issues"
+	},
+	"homepage": "https://github.com/juliohernandezcm/prime-movies#readme"
+}
